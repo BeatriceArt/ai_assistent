@@ -2,7 +2,7 @@
 
 Ссылка на проект: @ColorLike_bot
 
-Скриншот 1: https://github.com/BeatriceArt/ai_assistent/blob/main/Снимок%20экрана%202025-06-28%20в%2023.50.43.jpg?raw=true![image](https://github.com/user-attachments/assets/ebed4595-aaa7-46e2-a926-59a06514a619)
+Скриншот 1: 
 
 
 ## 📌 Общее описание
