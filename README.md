@@ -4,7 +4,8 @@
 
 Скриншот 1: [image](https://github.com/user-attachments/assets/3e6bb428-6d18-44fd-a6d0-b8218eb79a35)
 Скриншот 2: [image](https://github.com/user-attachments/assets/cc9c123d-e8c7-41b8-a338-4768a262c028)
-Скриншот 3: 
+Скриншот 3: [image](https://github.com/user-attachments/assets/23901376-2356-41fd-b656-659e9e76a97c)
+
 
 
 
