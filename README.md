@@ -3,6 +3,7 @@
 Ссылка на проект: @ColorLike_bot
 
 Скриншот 1: [image](https://github.com/user-attachments/assets/3e6bb428-6d18-44fd-a6d0-b8218eb79a35)
+Скриншот 2:  
 
 
 
